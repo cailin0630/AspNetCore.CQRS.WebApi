@@ -1,0 +1,1 @@
+# AspNetCore.CQRS.WebApi
